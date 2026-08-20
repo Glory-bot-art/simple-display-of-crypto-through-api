@@ -49,3 +49,4 @@ if __name__ == "__main__":
                 live.update(fetch_table_data())
     except KeyboardInterrupt:
         print("\nprogram stopped.")
+
