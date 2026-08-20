@@ -45,9 +45,3 @@ Press `Ctrl+C` to stop.
 - If the request fails (network issue, rate limit, etc.), the table shows an `Error` row instead of crashing.
 - Refreshes once per second.
 
-## Roadmap ideas
-
-- [ ] Add more symbols / make the symbol list configurable via CLI args
-- [ ] Add a `requirements.txt`
-- [ ] Log prices to CSV like the gold tracker
-- [ ] Add sorting (biggest gainers/losers first)
